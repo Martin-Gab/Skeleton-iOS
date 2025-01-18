@@ -1,0 +1,12 @@
+//
+//  Release.xcconfig
+//  Skeleton-iOS
+//
+//  Created by Martin Gabillet on 18/01/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// MARK: replace with the right URL
+BASE_URL = https:/$()/release.fr/api/v1
